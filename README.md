@@ -1,3 +1,3 @@
-# GaniRahmon Portfolio
+# Gani Rahmon Portfolio
 
-GaniRahmon Portfolio website.
+Gani Rahmon Portfolio website.
