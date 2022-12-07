@@ -1,3 +1,3 @@
-# GitHub-Pages-Example
+# GaniRahmon Portfolio
 
-An example of using GitHub Pages to build a static website.
+GaniRahmon Portfolio website.
